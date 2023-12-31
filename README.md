@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 💼 &nbsp; I can work comfortably as a Front-end Web Developer but I am aspiring to be a ML engineer someday.
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence.
 - ✍️ &nbsp; OnePiece is my favourite anime and I like to write sometimes too.
-- ☕ &nbsp; I belive in continuous learning and growth. 
+- ☕ &nbsp; I believe in continuous learning and growth. 
 
 <h3>🛠 Tech Stack</h3>
 
