@@ -15,16 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hey there! I'm Tangsang. <img alt = "luffy-good-luck" src="https://media0.giphy.com/media/VgGpnYeMVljm1vRA6g/giphy.gif?cid=6c09b95286fi4mg5yu7jd9xhsiwxsp80sx1qpg8es4vilamx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="25"></h2>
+# Hey there! I'm Tangsang. <img alt = "luffy-good-luck" src="https://media0.giphy.com/media/VgGpnYeMVljm1vRA6g/giphy.gif?cid=6c09b95286fi4mg5yu7jd9xhsiwxsp80sx1qpg8es4vilamx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="25">
 <img align="right" alt="GIF" src="https://i.redd.it/xpokqom41k3a1.gif" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently exploring Machine Learning.
-- 🤔 &nbsp; I like to think of creative ways to solve any given problem.
+<h3> 👨🏻‍💻 About Me </h3>
+I'm a passionate developer with a keen interest in Machine Learning and AI, Web Development, Algorithms, and well basically computers in general. Here, you'll find a collection of projects, contributions, and code snippets that reflect my journey in the world of technology. <br> <br>
+
+- 🔭 &nbsp; I’m currently exploring the world of Machine Learning and AI.
+- 🤔 &nbsp; I like to think of creative ways to solve any given problem. I like competitive programming.
 - 🎓 &nbsp; I am currently studying Electronics, Communication and Information Engineering.
-- 💼 &nbsp; I can work comfortably as a Front-end Web Developer but I am aspiring to be a ML engineer someday.
-- 🌱 &nbsp; Enthusiast in Artificial Intelligence.
+- 💼 &nbsp; I can work comfortably as a Front-end Web Developer.
+- 🌱 &nbsp; I aspire to work and contribute in the field of  Artificial Intelligence someday.
 - ✍️ &nbsp; OnePiece is my favourite anime and I like to write sometimes too.
 - ☕ &nbsp; I believe in continuous learning and growth. 
 
@@ -51,16 +53,16 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-&nbsp; <a href="https://twitter.com/tangsang2003" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+<!-- &nbsp; <a href="https://twitter.com/tangsang2003" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>   -->
 &nbsp; <a href="https://www.instagram.com/iamtangsang/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/tangsang2003/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/tangsang-chongbang-8713742a2/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:077bei047.tangsang@pcampus.edu.np" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 <hr>
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-<hr>
+<hr> -->
 
 ## Visitor's Count:
 ![Visitor's Count](https://profile-counter.glitch.me/%7Btangsang2003%7D/count.svg)
