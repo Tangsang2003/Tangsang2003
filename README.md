@@ -23,19 +23,19 @@ Here are some ideas to get you started:
 I'm a passionate developer with a keen interest in Machine Learning and AI, Web Development, Algorithms, and well basically computers in general. Here, you'll find a collection of projects, contributions, and code snippets that reflect my journey in the world of technology. <br> <br>
 
 - 🔭 &nbsp; I’m currently exploring the world of Machine Learning and AI.
-- 🤔 &nbsp; I like to think of creative ways to solve any given problem. I like competitive programming.
+- 🤔 &nbsp; I like to grind my mind into thinking of creative ways to solve any given problem. I like competitive programming. You can find me on leetcode.
 - 🎓 &nbsp; I am currently studying Electronics, Communication and Information Engineering.
-- 💼 &nbsp; I can work comfortably as a Front-end Web Developer.
+- 💼 &nbsp; I can work comfortably as a Front-end Web Developer. You can find my Web Development Projects below.
 - 🌱 &nbsp; I aspire to work and contribute in the field of  Artificial Intelligence someday.
-- ✍️ &nbsp; OnePiece is my favourite anime and I like to write sometimes too.
+- ✍️ &nbsp; OnePiece is my favourite anime and I like to write sometimes too. Fun fact: I used to write blog posts back in the day. Well, I have stopped now but yeah.
 - ☕ &nbsp; I believe in continuous learning and growth. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C | JavaScript | C++  
+- 💻 &nbsp; Python | C  | C++  
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Flask
-- 🛢 &nbsp; MySQL | Sqlite | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git | LaTeX
+- 🛢 &nbsp; MySQL  | Xampp
+- 🔧 &nbsp; Git | LaTeX
 - 🖥 &nbsp; Illustrator | Photoshop | Figma
 
 <hr>
