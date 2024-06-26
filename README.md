@@ -8,7 +8,7 @@
 <br/>
  
 
-<div align="center">
+<div align="left">
  
  - ❤️‍🔥 I have a deep interest in **Machine Learning (ML) and Artificial Intelligence (AI)**.
 
@@ -19,6 +19,8 @@
  - 📘 Alongside my studies, I have developed a keen interest in **Web development and Software development** as well.
  
  - 🌱 I’m currently learning about **Deep Learning Algorithms and models.**
+
+<br>
   <details>
 
 <summary>About <strong>Me-ME</strong>👋</summary>
