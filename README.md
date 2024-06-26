@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tangsang2003.Tangsang2003" />
-
+<img align="left" alt="GIF" src="./images/luffy.gif" width="150"/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tangsang!;" />
 </h1>
@@ -23,7 +23,7 @@
 <br>
   <details>
 
-<summary>About <strong>ME</strong>👋 <strong>Click Me</strong> For a Fun Fact.</summary>
+<summary><strong>Click Me 👋</strong> for a fun fact about me.</summary>
 
 I'm always excited to dive into new technologies🌟 and use them to solve practical problems. My aim is to apply my skills in ML, AI, and software development to create innovative solutions that truly make a difference. But you know what? My **endgame** is **simple:** I want to retire on a farm 🚜. Yup, you heard me right. Picture me trading lines of code for **sunny fields 🌾 and peaceful mornings** with the animals 🐮. That's the **dream** — from **bytes to barns!**
 
@@ -76,8 +76,8 @@ I'm always excited to dive into new technologies🌟 and use them to solve pract
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Tangsang2003&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Tangsang2003&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Tangsang2003&count_private=true&theme=react&border_radius=10" alt="streak stats"/> <br>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Tangsang2003&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> 
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tangsang2003&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
