@@ -23,7 +23,7 @@
 <br>
   <details>
 
-<summary>About <strong>Me-ME</strong>👋</summary>
+<summary>About <strong>ME</strong>👋 <strong>Click Me</strong> For a Fun Fact.</summary>
 
 I'm always excited to dive into new technologies🌟 and use them to solve practical problems. My aim is to apply my skills in ML, AI, and software development to create innovative solutions that truly make a difference. But you know what? My **endgame** is **simple:** I want to retire on a farm 🚜. Yup, you heard me right. Picture me trading lines of code for **sunny fields 🌾 and peaceful mornings** with the animals 🐮. That's the **dream** — from **bytes to barns!**
 
