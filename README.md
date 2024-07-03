@@ -16,18 +16,18 @@
 
  - 🧑‍🎓️ I am currently finishing my degree in **Electronics, Communication, and Information Engineering.** 
 
- - 📘 Alongside my studies, I have developed a keen interest in **Web development and Software development** as well.
+ <!-- - 📘 Alongside my studies, I have developed a keen interest in **Web development and Software development** as well. -->
  
- - 🌱 I’m currently learning about **Deep Learning Algorithms and models.**
+ <!-- - 🌱 I’m currently learning about **Deep Learning Algorithms and models.** -->
 
-<br>
+<!-- <br>
   <details>
 
 <summary><strong>Click Me 👋</strong> for a fun fact about me.</summary>
 
 I'm always excited to dive into new technologies🌟 and use them to solve practical problems. My aim is to apply my skills in ML, AI, and software development to create innovative solutions that truly make a difference. But you know what? My **endgame** is **simple:** I want to retire on a farm 🚜. Yup, you heard me right. Picture me trading lines of code for **sunny fields 🌾 and peaceful mornings** with the animals 🐮. That's the **dream** — from **bytes to barns!**
 
-</details>
+</details> -->
 
 <hr/>
 <br>
