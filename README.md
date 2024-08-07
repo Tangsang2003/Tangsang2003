@@ -24,7 +24,6 @@
  <!-- - 🧑‍🎓️ I am currently finishing my degree in **Electronics, Communication, and Information Engineering.**  -->
  - 🧑‍🎓️ Soon-to-be **Engineer.**
  - 😌 यस्तै नै होला! 
- - My visitors badge is broken. 
  <!-- - 📘 Alongside my studies, I have developed a keen interest in **Web development and Software development** as well. -->
  
  <!-- - 🌱 I’m currently learning about **Deep Learning Algorithms and models.** -->
