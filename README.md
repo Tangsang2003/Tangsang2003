@@ -6,7 +6,7 @@
     <!-- Use the code immediately below to display Hi I am ...
     Ignore the code below that -->
     <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tangsang!;" /> -->
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Poco Loco💀;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Poco+Loco+💀;" />
 </h1>
 
 <h3 align="center">  Passionate. Dedicated. Determined.  </h3>
@@ -94,7 +94,7 @@ I'm always excited to dive into new technologies🌟 and use them to solve pract
 <br/>
 <hr/>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=तर सबै सपना नै हो कि ? 🧐;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=तर+सबै+सपना+नै+हो+कि+?+🧐;" />
 </h1>
 <hr>
 
