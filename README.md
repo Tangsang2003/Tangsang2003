@@ -1,48 +1,26 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tangsang2003.Tangsang2003" /> -->
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTangsang2003%2FTangsang2003&countColor=%23263759">
 <br>
-<!-- Below is for luffy  -->
-<!-- <img align="left" alt="GIF" src="./images/luffy.gif" width="150"/> -->
+
 <h1 align="center">
-    <!-- Use the code immediately below to display Hi I am ...
-    Ignore the code below that -->
-    <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tangsang!;" /> -->
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Poco+Loco+💀;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!;I+am+Tangsang!" />
 </h1>
 
-<!-- <h3 align="center">  Passionate. Dedicated. Determined.  </h3> -->
+
 <h3 align="center"> $$0 \over 0$$</h3>
 <br/>
  
 
 <div align="left">
- 
- <!-- - ❤️‍🔥 I have a deep interest in **Machine Learning (ML) and Artificial Intelligence (AI)**. -->
+
  - ❤️‍🔥 Deeply interested in **ML and AI.**
 
- <!-- - 🔭 I’m currently working on **a Nepali ASR and Translation System.** -->
+ 
  - 🔭 Currently working on a **Nepali ASR and Translation System.**
 
- <!-- - 🧑‍🎓️ I am currently finishing my degree in **Electronics, Communication, and Information Engineering.**  -->
- - 🧑‍🎓️ Soon-to-be **Engineer.**
- - 😌 यस्तै नै होला! 
- <!-- - 📘 Alongside my studies, I have developed a keen interest in **Web development and Software development** as well. -->
- 
- <!-- - 🌱 I’m currently learning about **Deep Learning Algorithms and models.** -->
-
-<!-- <br>
-  <details>
-
-<summary><strong>Click Me 👋</strong> for a fun fact about me.</summary>
-
-I'm always excited to dive into new technologies🌟 and use them to solve practical problems. My aim is to apply my skills in ML, AI, and software development to create innovative solutions that truly make a difference. But you know what? My **endgame** is **simple:** I want to retire on a farm 🚜. Yup, you heard me right. Picture me trading lines of code for **sunny fields 🌾 and peaceful mornings** with the animals 🐮. That's the **dream** — from **bytes to barns!**
-
-</details> -->
 
 <hr/>
 <br>
 
-<!-- - 💬 Ask me about **C, C++, Python, Flask... or anything [here.](https://github.com/Tangsang2003/Tangsang2003/issues)** -->
  </div>
 
  <div align="center"> 
@@ -71,16 +49,16 @@ I'm always excited to dive into new technologies🌟 and use them to solve pract
 </div>
 
 <br/>
-<hr/>
+<!-- <hr/> -->
 
-<div align="center">
+<!-- <div align="center"> -->
   <!-- <h2>🐍 My Contributions 🐍</h2> -->
-  <h2>🐍Cool?🐍</h2>
+  <!-- <h2>🐍 My Contributions🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tangsang2003/Tangsang2003/output/github-contribution-grid-snake.svg" />
   
   <br/><br/>
-</div>
+</div> -->
 
 <hr/>
 
@@ -95,15 +73,11 @@ I'm always excited to dive into new technologies🌟 and use them to solve pract
 
 <br/>
 <hr/>
-<h3 align="center">
+<!-- <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=तर+सबै+सपना+नै+हो+कि+?+🧐;" />
 </h1>
-<hr>
+<hr> -->
 
-
-<!-- <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div> -->
 
 <br/>
 
