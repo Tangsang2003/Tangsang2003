@@ -1,11 +1,13 @@
-<h2>👋 Hi. I am Tangsang.</h2>
+## 👋 Hi. I am Tangsang.</h2>
 
   ### My Focus Areas💡:  
-  - **Machine Learning** 
-  - **Data Science**
-  - **Web Development**
+  - **Machine Learning.** 
+  - **Data Science.**
+  - **Web Design and Development.**
 
-<h2>⚒️Languages-Frameworks-Tools⚒️</h2>
+<hr>
+
+## ⚒️Languages,Frameworks & Tools I use:
 <!-- <br> -->
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,py,flask,latex,git,mysql,)](https://skillicons.dev)
