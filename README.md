@@ -1,19 +1,21 @@
 <h2>👋 Hi. I am Tangsang.</h2>
 
-- 💡My Focus Areas:  
-  - **Machine Learning,** 
-  - **Data Science,**
-  - **Web Development**.
+  ### My Focus Areas💡:  
+  - **Machine Learning** 
+  - **Data Science**
+  - **Web Development**
 
 <h2>⚒️Languages-Frameworks-Tools⚒️</h2>
-<br>
+<!-- <br> -->
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,py,flask,latex,git,mysql,)](https://skillicons.dev)
 
-<br>
+<!-- <br> -->
 <hr>
-<br>
-<div align="center"> 
+
+### 📫 Let's connect: 
+<!-- <br> -->
+<div align="left"> 
   <a href="mailto:077bei047.tangsang@pcampus.edu.np">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -24,7 +26,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a> 
 </div>
-<br>
+<!-- <br> -->
 <hr>
 
 <!-- <div align="center">
