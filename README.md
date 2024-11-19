@@ -1,7 +1,9 @@
 <h2>👋 Hi. I am Tangsang.</h2>
 
-- I like **🧠 Machine Learning 📊 Data Science** and **Web Development**.
-- I enjoy working on **personal projects** and continuously learning new skills.
+- 💡My Focus Areas:  
+  - **Machine Learning,** 
+  - **Data Science,**
+  - **Web Development**.
 
 <h2>⚒️Languages-Frameworks-Tools⚒️</h2>
 <br>
@@ -25,8 +27,8 @@
 <br>
 <hr>
 
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 Can't let him go hungry. 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tangsang2003/Tangsang2003/output/github-contribution-grid-snake.svg" />
-</div>
-<hr>
+</div> -->
+<!-- <hr> -->
