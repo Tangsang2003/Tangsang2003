@@ -30,9 +30,3 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tangsang2003/Tangsang2003/output/github-contribution-grid-snake.svg" />
 </div>
 <hr>
-<div style='text-align:center;'>
-  <img width=300 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Tangsang2003&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br>
-  <!-- <img width=300 height=100 src="https://github-readme-stats.vercel.app/api?username=Tangsang2003&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />  -->
-  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tangsang2003&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
