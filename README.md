@@ -1,6 +1,6 @@
 <h2>👋 Hi. I am Tangsang.</h2>
 
-- I like **ML/AI** and **Web Development**.
+- I like **🧠 Machine Learning 📊 Data Science** and **Web Development**.
 - I enjoy working on **personal projects** and continuously learning new skills.
 
 <h2>⚒️Languages-Frameworks-Tools⚒️</h2>
