@@ -10,7 +10,7 @@
 ## ⚒️Languages,Frameworks & Tools I use:
 <!-- <br> -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,py,flask,latex,git,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,c,cpp,py,flask,latex,git,mysql,)](https://skillicons.dev)
 
 <!-- <br> -->
 <hr>
